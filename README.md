@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shankar Venugopal
 - I’m interested in FrontEnd Engineering
-- I’m currently learning DS and Algo usinng JS
+- I’m currently learning DS and Algo using JS
